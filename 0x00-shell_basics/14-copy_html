@@ -1,2 +1,2 @@
 #!/bin/bash
-:wq1
+cp -nu *.html ..
